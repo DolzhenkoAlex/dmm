@@ -1,1 +1,5 @@
-com\dolsoft\dmm\domain\App.class
+com\dolsoft\dmm\domain\Taco.class
+com\dolsoft\dmm\domain\TacoOrder.class
+com\dolsoft\dmm\domain\Ingredient.class
+com\dolsoft\dmm\domain\User.class
+com\dolsoft\dmm\domain\Ingredient$Type.class
