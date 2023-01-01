@@ -93,7 +93,8 @@
 		<module>dmm-security</module>
 		<module>dmm-api</module>
 		<module>dmm-web</module>
-	</modules>
+    <module>dmm-ui</module>
+  </modules>
 	
 
  	<!-- Репозитории -->
