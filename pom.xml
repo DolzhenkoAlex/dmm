@@ -87,12 +87,13 @@
 
 
  	<!-- Модули корневого проекта-->
- 	 <modules>
- 	 	<module>dmm-data</module>
- 	 	<module>dmm-domain</module>
-    <module>dmm-security</module>
-    <module>dmm-api</module>
-  </modules>
+	<modules>
+		<module>dmm-data</module>
+		<module>dmm-domain</module>
+		<module>dmm-security</module>
+		<module>dmm-api</module>
+		<module>dmm-web</module>
+	</modules>
 	
 
  	<!-- Репозитории -->
