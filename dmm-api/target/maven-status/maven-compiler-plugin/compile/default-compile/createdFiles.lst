@@ -1,0 +1,5 @@
+com\dolsoft\dmm\web\api\IngredientController.class
+com\dolsoft\dmm\web\api\OrderApiController.class
+com\dolsoft\dmm\web\api\SpringDataRestConfiguration.class
+com\dolsoft\dmm\web\api\SpringDataRestConfiguration$1.class
+com\dolsoft\dmm\web\api\TacoController.class

@@ -18,9 +18,12 @@
 	<description>Demo Multi Models UI</description>
 
 	<properties>
-		<node.version>v6.9.1</node.version>
-		<yarn.version>v0.24.6</yarn.version>
-		<frontend-maven-plugin.version>1.4</frontend-maven-plugin.version>
+		<!-- <node.version>v6.9.1</node.version>-->
+      <node.version>v18.12.1</node.version>
+      <!--<yarn.version>v0.24.6</yarn.version>-->
+      <yarn.version>v1.22.19</yarn.version>
+      <!-- <frontend-maven-plugin.version>1.4</frontend-maven-plugin.version> -->
+      <frontend-maven-plugin.version>1.11.2</frontend-maven-plugin.version>
 		<environment>dev</environment>
 	</properties>
 

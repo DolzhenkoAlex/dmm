@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "name": "taco.discount",
+      "type": "com.dolsoft.dmm.DiscountCodeProps",
+      "sourceType": "com.dolsoft.dmm.DiscountCodeProps"
+    },
+    {
+      "name": "taco.orders",
+      "type": "com.dolsoft.dmm.web.OrderProps",
+      "sourceType": "com.dolsoft.dmm.web.OrderProps"
+    }
+  ],
+  "properties": [
+    {
+      "name": "taco.discount.codes",
+      "type": "java.util.Map<java.lang.String,java.lang.Integer>",
+      "description": "A map of discount codes to a discount percentage.",
+      "sourceType": "com.dolsoft.dmm.DiscountCodeProps"
+    },
+    {
+      "name": "taco.orders.page-size",
+      "type": "java.lang.Integer",
+      "description": "Sets the maximum number of orders to display in a list.",
+      "sourceType": "com.dolsoft.dmm.web.OrderProps",
+      "defaultValue": 20
+    }
+  ],
+  "hints": []
+}

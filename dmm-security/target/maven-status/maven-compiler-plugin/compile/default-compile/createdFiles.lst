@@ -1,0 +1,4 @@
+com\dolsoft\dmm\security\RegistrationController.class
+com\dolsoft\dmm\security\UserRepositoryUserDetailsService.class
+com\dolsoft\dmm\security\RegistrationForm.class
+com\dolsoft\dmm\security\SecurityConfig.class

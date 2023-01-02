@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 18
+Implementation-Title: dmm-web
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.dolsoft.dmm.web.App
+Created-By: Maven Integration for Eclipse
+

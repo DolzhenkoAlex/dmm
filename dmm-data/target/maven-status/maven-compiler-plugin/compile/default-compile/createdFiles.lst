@@ -1,0 +1,4 @@
+com\dolsoft\dmm\data\OrderRepository.class
+com\dolsoft\dmm\data\IngredientRepository.class
+com\dolsoft\dmm\data\TacoRepository.class
+com\dolsoft\dmm\data\UserRepository.class
